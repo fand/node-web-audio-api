@@ -29,7 +29,7 @@
   "analyze": false,
   "devDependencies": {
     "chai": "^3.5.0",
-    "gulp": "3.8.x",
+    "gulp": "^3.9.1",
     "gulp-contribs": "0.0.x",
     "gulp-es6-transpiler": "1.0.x",
     "gulp-util": "3.0.x",
